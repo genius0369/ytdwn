@@ -260,20 +260,20 @@ Backend powered by **yt-dlp**
 
 ### 🎛️ Main Menu
 <p align="center">
-  <img src="images/Main Menu.jpg" width="600">
+  <img src="Main Menu.jpg" width="600">
 </p>
 
 ### 🎵 Song Download
 <p align="center">
-  <img src="images/Song Download.jpg" width="600">
+  <img src="Song Download.jpg" width="600">
 </p>
 
 ### 🎬 Video Download
 <p align="center">
-  <img src="images/Video Download.jpg" width="600">
+  <img src="Video Download.jpg" width="600">
 </p>
 
 ### 📚 Playlist Download
 <p align="center">
-  <img src="images/Playlist Download.jpg" width="600">
+  <img src="Playlist Download.jpg" width="600">
 </p>
